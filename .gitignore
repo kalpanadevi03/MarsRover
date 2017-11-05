@@ -1,0 +1,11 @@
+MarsRover.Test/obj/Debug/
+MarsRover.Test/bin/
+MarsRover/bin/
+MarsRover.Foundation/obj/
+MarsRover.Foundation/bin/Debug/MarsRover.pdb
+MarsRover.Foundation/bin/
+MarsRover/obj/
+MarsRover.BusinessLogic/obj/
+MarsRover.BusinessLogic/bin/
+packages/
+.vs/MarsRover/v14/.suo
